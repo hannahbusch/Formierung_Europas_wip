@@ -89,7 +89,7 @@
             </listBibl>
          </div>
          <div type="regesta">
-            <head>Regesten</head> <!-- Konkordanzregesten -->
+            <head>Regesten</head><head>JL 12345 </head> <!-- Konkordanzregesten -->
             <listBibl>
                <bibl/>
                <bibl/>
