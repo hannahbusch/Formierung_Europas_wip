@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/hannahbusch/Formierung_Europas_wip/master/tei_cei_formierung_edited.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title >Holtzmann_I_132_UUID</title>
+            <title>Holtzmann_I_132_UUID</title>
             <respStmt xml:id="FE">
                <resp>Bearbeiter*in</resp>
                <persName>Isabel Blumenroth</persName>
@@ -31,7 +32,7 @@
             </diploDesc>
          </sourceDesc>
       </fileDesc>
-   </teiHeader>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
    <text>
       <body>
          <div><authen type="formula"><ab>Echtheitskriterien</ab></authen></div>
@@ -90,10 +91,10 @@
          <div type="regesta">
             <head>Regesten</head> <!-- Konkordanzregesten -->
             <listBibl>
-               <bibl></bibl>
-               <bibl></bibl>
-               <bibl></bibl>
-               <bibl></bibl>
+               <bibl/>
+               <bibl/>
+               <bibl/>
+               <bibl/>
             </listBibl>
          </div>
          <div type="Sachkommentar">
@@ -102,7 +103,7 @@
          </div>
          <div type="bibliography"> <!-- Betrifft auch alles oben: Einpflegen von Literaturangaben via Zotero/TeX, muss ich mich noch drum kümmern. -->
          <listBibl>
-            <bibl></bibl>
+            <bibl/>
          </listBibl>
          </div>
       </body>
