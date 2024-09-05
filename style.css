@@ -2,7 +2,7 @@
     color: red;
 }
 
-[_tag="teiHeader"] {
+div [_tag="teiHeader"] {
     display: block !important;
 }
 
