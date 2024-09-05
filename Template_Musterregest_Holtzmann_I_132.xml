@@ -4,17 +4,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
-         <titleStmt>
-            <title>Holtzmann_I_132_UUID</title>
-            <respStmt xml:id="FE">
+         <titleStmt><title>Holtzmann_I_132_UUID</title><respStmt xml:id="FE">
                <resp>Bearbeiter*in</resp>
                <persName>Isabel Blumenroth</persName>
-            </respStmt>
-           <respStmt xml:id="HB">
+            </respStmt><respStmt xml:id="HB">
               <resp when="2024">Encoding</resp>
               <persName>Hannah Busch</persName>
-           </respStmt>
-         </titleStmt>
+           </respStmt></titleStmt>
          <publicationStmt>
             <publisher>Formierung Europas</publisher>
             <availability>
