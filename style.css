@@ -6,7 +6,7 @@ div [_tag="teiHeader"], #dom_17, div div[_tag="teiHeader"] {
     display: block !important;
 }
 
-[_tag="objectType"] {
+[_tag="Edition"] {
     color: orange;
     font-weight: 800;
 }
