@@ -2,7 +2,7 @@ div [_tag="teiHeader"], #dom_17, div div[_tag="teiHeader"] {
     display: block !important;
 }
 
-[_tag="div"] {
+[_tag="head"] {
     color: orange;
     font-weight: 800;
 }
