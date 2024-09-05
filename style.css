@@ -6,7 +6,3 @@ div [_tag="teiHeader"], #dom_17, div div[_tag="teiHeader"] {
     color: orange;
     font-weight: 800;
 }
-[_tag="authen"] {
-    color: green;
-    font-weight: 800;
-}
