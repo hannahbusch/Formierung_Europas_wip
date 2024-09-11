@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/hannahbusch/Formierung_Europas_wip/master/tei_cei_formierung_edited.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/hannahbusch/Formierung_Europas_wip/master/style.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,15 +16,15 @@
          <sourceDesc>
             <diploDesc>
             <p><issued><placeName>Ausstellungsort</placeName><date type="issued">Ausstellungsdatum</date></issued></p>
-            <p>ggf. zentrale Akteure (Aussteller, Empfänger...) hier doppeln? -> sonst im Abstract</p>
-            <p><objectType>Filterkategorie 1</objectType></p>
-            <p><objectType>Filterkategorie 2...</objectType></p>
+            <p>ggf. zentrale Akteure (Aussteller, Empfänger...) hier doppeln? -&amp;gt; sonst im Abstract</p>
+            <p><objectType>Filterkategorie 1/Typisierung</objectType></p>
+            <p><objectType>Filterkategorie 2/Typisierung</objectType></p>
             <!--  <p>Information zu Quelldatensätzen, die in diesem aufgegangen sind?</p>
             <p>ggf. die Zentralen Regestenwerke wie JL hier doppeln? -> sonst in den Regestenwerken</p>-->
             </diploDesc>
          </sourceDesc>
       </fileDesc>
-   </teiHeader>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
    <text>
       <body>
          <div type="other">
@@ -113,7 +113,7 @@
          </div>
          <div type="bibliography">
          <listBibl>
-            <bibl></bibl>
+            <bibl/>
          </listBibl>
          </div>
       </body>
