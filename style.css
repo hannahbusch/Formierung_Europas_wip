@@ -8,17 +8,21 @@ teiHeader {
 	display: block !important;
 }
 
-[_tag="objectType"] {
+objectType" {
     color: red;
     font-weight: 800;
 }
-[_tag="placeName"] {
+"placeName" {
     color: blue;
     font-weight: 800;
 }
-.horizontal-line {
-  border: none;
-  border-top: 2px solid black; /* Linie nur oben */
-  width: 80%; /* Breite der Linie */
-  margin: 20px auto; /* Zentrieren und Abstand */
+body {
+    margin-top : 5px;
+    padding : 0 2em 0 0;
+    display : block;
+    counter-reset : div1;
 }
+byline {
+    display : block;
+    font-style : italic;
+    margin-bottom : 0.5em;
