@@ -12,6 +12,7 @@ TEI {
     color: red;
     font-weight: 800;
 }
+
 [_tag="placeName"] {
     color: blue;
     font-weight: 800;
