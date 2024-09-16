@@ -12,6 +12,10 @@ teiHeader {
     color: orange;
     font-weight: 800;
 }
+[_tag="persName"] {
+    color: blue;
+    font-weight: 800;
+}
 .horizontal-line {
   border: none;
   border-top: 2px solid black; /* Linie nur oben */
