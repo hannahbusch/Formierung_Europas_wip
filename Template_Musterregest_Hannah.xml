@@ -54,7 +54,7 @@
             <listWit>   
                <witness><msDesc>
                      <msIdentifier>
-                        <placeName>Biblioteksort</placeName>
+                        <placeName>Bibliotheksort</placeName>
                         <institution>Institution</institution>
                         <repository>Bibliothek</repository>
                         <collection>Sammlung</collection>
@@ -67,7 +67,7 @@
                   </msDesc></witness>
                <witness><msDesc>
                   <msIdentifier>
-                     <placeName>Biblioteksort</placeName>
+                     <placeName>Bibliotheksort</placeName>
                      <institution>Institution</institution>
                      <collection>Sammlung</collection>
                      <idno>Signatur</idno>
