@@ -12,7 +12,7 @@ teiHeader {
     color: orange;
     font-weight: 800;
 }
-[_tag="persName"] {
+[_tag="placeName"] {
     color: blue;
     font-weight: 800;
 }
