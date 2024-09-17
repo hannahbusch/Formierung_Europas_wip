@@ -23,6 +23,6 @@ TEI {
     font-weight: 800;
 }
 
-[_tag="div"] {
+[_tag="legalActor"] {
     color: blue;
     font-weight: 800;
