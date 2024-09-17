@@ -7,18 +7,18 @@
          <titleStmt>
             <title>Die Nummer des Regests im Projekt</title>
             <respStmt xml:id="FE">
-               <resp>Bearbeiter*in</resp>
+               <resp>Bearbeiter*in:</resp>
                <persName>Vorname Nachname</persName>
             </respStmt>
            <respStmt xml:id="HB">
-              <resp when="2024">Encoding</resp>
+              <resp when="2024">Encoding:</resp>
               <persName>Vorname Nachname</persName>
            </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Informationen über das Projekt</publisher>
+            <publisher>Informationen über das Projekt:</publisher>
             <availability>
-               <licence>Lizenz</licence>
+               <licence>Lizenz:</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
