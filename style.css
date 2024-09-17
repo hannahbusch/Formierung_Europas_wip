@@ -23,3 +23,17 @@ TEI {
     font-weight: 800;
 }
 
+[_tag="authen"] {
+    color: green;
+    font-weight: 800;
+}
+
+[_tag="date"] {
+    color: blue;
+    font-weight: 800;
+}
+
+[_tag="persName"] {
+    color: green;
+    font-weight: 800;
+}
