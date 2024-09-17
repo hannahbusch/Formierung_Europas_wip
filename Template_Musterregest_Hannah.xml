@@ -34,9 +34,9 @@
             <authen type="formula"><p>*!?</p><!-- Echtheitskriterien --></authen>
           </div>
          <div type="incipit"><p>Incipit</p></div>
-         <div type="abstract">
+         <div type="abstract"><head>Abstract:</head>
          <div>
-            <p/><p>SummaryRegestentext mit <legalActor type="issuer"><persName>Aussteller</persName></legalActor>, <legalActor type="beneficiary"><persName>Empfänger</persName></legalActor>; weitere <persName>Personen</persName>, <placeName>Orte</placeName>, <orgName>Institutionen</orgName> und auch <eventName>Ereignisse</eventName>. Außerdem sind ggf. <bibl>Literaturzitate</bibl> und <ref>Querverweise</ref> möglich. Wörtliche Zitate könnten mit dem entsprechenden <diploPart>Urkundenbestandtteil</diploPart> ausgezeichet werden. Einzelne Rechtstitel, etwa bei Privilegien, werden als Liste aufgeführt, auch dort können alle im "abstract" zulässigen Entitäten ausgezeichnet werden.</p>
+            <p/><p>Regestentext mit <legalActor type="issuer"><persName>Aussteller</persName></legalActor>, <legalActor type="beneficiary"><persName>Empfänger</persName></legalActor>; weitere <persName>Personen</persName>, <placeName>Orte</placeName>, <orgName>Institutionen</orgName> und auch <eventName>Ereignisse</eventName>. Außerdem sind ggf. <bibl>Literaturzitate</bibl> und <ref>Querverweise</ref> möglich. Wörtliche Zitate könnten mit dem entsprechenden <diploPart>Urkundenbestandtteil</diploPart> ausgezeichet werden. Einzelne Rechtstitel, etwa bei Privilegien, werden als Liste aufgeführt, auch dort können alle im "abstract" zulässigen Entitäten ausgezeichnet werden.</p>
          </div>
          </div>
          <div type="witness">
