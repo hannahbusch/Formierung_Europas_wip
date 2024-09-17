@@ -18,3 +18,7 @@ TEI {
     font-weight: 800;
 }
 
+[_tag="head"] {
+    color: green;
+    font-weight: 800;
+}
