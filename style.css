@@ -22,3 +22,7 @@ TEI {
     color: green;
     font-weight: 800;
 }
+
+[_tag="div > incipit"] {
+    color: blue;
+    font-weight: 800;
