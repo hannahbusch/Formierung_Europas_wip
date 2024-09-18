@@ -15,7 +15,7 @@ TEI {
 
 [_tag="placeName"] {
     color: blue;
-    font-weight: 800;
+    font-weight: 400;
 }
 
 [_tag="head"] {
@@ -38,5 +38,29 @@ TEI {
 }
 
 [_tag="resp"] {
+    font-weight: 800;
+}
+
+[_tag="legalActor"] {
+    font-weight: 800;
+}
+
+[_tag="orgName"] {
+    font-weight: 800;
+}
+
+[_tag="institution"] {
+    font-weight: 800;
+}
+
+[_tag="repository"] {
+    font-weight: 800;
+}
+
+[_tag="msIdentifier"] {
+    font-weight: 800;
+}
+
+[_tag="eventName"] {
     font-weight: 800;
 }
