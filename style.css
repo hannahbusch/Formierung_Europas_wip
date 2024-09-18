@@ -35,5 +35,9 @@ TEI {
 
 [_tag="persName"] {
     color: green;
+    font-weight: 600;
+}
+
+[_tag="resp"] {
     font-weight: 800;
 }
