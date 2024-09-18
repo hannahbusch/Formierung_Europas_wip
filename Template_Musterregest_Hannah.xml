@@ -45,10 +45,10 @@
             <listWit>   
                <witness><msDesc>
                      <msIdentifier>
-                        <placeName>Bibliotheksort</placeName>
-                        <institution>Institution</institution>
-                        <repository>Bibliothek</repository>
-                        <collection>Sammlung</collection>
+                        <placeName>Bibliotheksort</placeName><lb/>
+                        <institution>Institution</institution><lb/>
+                        <repository>Bibliothek</repository><lb/>
+                        <collection>Sammlung</collection><lb/>
                         <idno type="shelfmark">Signatur</idno>
                      </msIdentifier>
                      <copyStatus type="original">Original</copyStatus>
