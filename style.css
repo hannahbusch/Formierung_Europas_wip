@@ -64,3 +64,7 @@ TEI {
 [_tag="eventName"] {
     font-weight: 800;
 }
+
+[_tag="publicationStmt"] {
+    font-weight: 800;
+}
