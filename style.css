@@ -23,13 +23,13 @@ TEI {
 }
 
 [_tag="authen"] {
-    color: green;
-    font-weight: 800;
+    color: violet;
+    font-weight: 600;
 }
 
 [_tag="date"] {
     color: blue;
-    font-weight: 800;
+    font-weight: 600;
 }
 
 [_tag="persName"] {
