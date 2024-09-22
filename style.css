@@ -68,3 +68,7 @@ TEI {
 [_tag="publicationStmt"] {
     font-weight: 800;
 }
+
+[_tag="title"] {
+    color: red;
+    font-weight: 800;
