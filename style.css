@@ -47,7 +47,8 @@ TEI {
 }
 
 [_tag="orgName"] {
-    font-weight: 600;
+    color: green;
+    font-weight: 400;
 }
 
 [_tag="institution"] {
@@ -63,6 +64,7 @@ TEI {
 }
 
 [_tag="eventName"] {
+    color: green;
     font-weight: 600;
 }
 
