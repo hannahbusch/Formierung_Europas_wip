@@ -23,7 +23,7 @@ TEI {
 }
 
 [_tag="authen"] {
-    color: pink;
+    color: orange;
     font-weight: 400;
 }
 
@@ -70,6 +70,5 @@ TEI {
 }
 
 [_tag="title"] {
-    color: red;
     font-weight: 800;
 }
