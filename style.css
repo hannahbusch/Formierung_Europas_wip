@@ -51,15 +51,15 @@ TEI {
 }
 
 [_tag="institution"] {
-    font-weight: 600;
+    font-weight: 400;
 }
 
 [_tag="repository"] {
-    font-weight: 600;
+    font-weight: 400;
 }
 
 [_tag="msIdentifier"] {
-    font-weight: 600;
+    font-weight: 400;
 }
 
 [_tag="eventName"] {
