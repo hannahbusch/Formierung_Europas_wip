@@ -69,4 +69,6 @@ TEI {
     font-weight: 800;
 }
 
-
+[_tag="title"] {
+    font-weight: 800;
+}
