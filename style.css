@@ -24,12 +24,12 @@ TEI {
 
 [_tag="authen"] {
     color: violet;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 [_tag="date"] {
     color: blue;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 [_tag="persName"] {
@@ -42,27 +42,27 @@ TEI {
 }
 
 [_tag="legalActor"] {
-    font-weight: 800;
+    font-weight: 600;
 }
 
 [_tag="orgName"] {
-    font-weight: 800;
+    font-weight: 600;
 }
 
 [_tag="institution"] {
-    font-weight: 800;
+    font-weight: 600;
 }
 
 [_tag="repository"] {
-    font-weight: 800;
+    font-weight: 600;
 }
 
 [_tag="msIdentifier"] {
-    font-weight: 800;
+    font-weight: 600;
 }
 
 [_tag="eventName"] {
-    font-weight: 800;
+    font-weight: 600;
 }
 
 [_tag="publicationStmt"] {
