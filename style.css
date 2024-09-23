@@ -75,3 +75,7 @@ TEI {
 [_tag="title"] {
     font-weight: 800;
 }
+
+[_tag="item"] {
+  list-style-type: circle;
+}
