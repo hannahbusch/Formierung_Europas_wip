@@ -79,4 +79,6 @@ TEI {
 [_tag="item"] {
     display: list-item;
     list-style-type: "-";
+    padding-inline-start: 1ch;
+
 }
