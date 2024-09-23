@@ -77,5 +77,6 @@ TEI {
 }
 
 [_tag="item"]::before {
+    content "circle";
     display: list-item;
 }
