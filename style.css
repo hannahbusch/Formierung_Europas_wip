@@ -77,4 +77,5 @@ TEI {
 }
 
 [_tag="item"]::marker {
+    color: black
 }
