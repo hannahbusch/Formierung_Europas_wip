@@ -76,6 +76,7 @@ TEI {
     font-weight: 800;
 }
 
-[_tag="item"] {
-  display: list-item;
+[_tag="item"]::before {
+  content: "circle";
+    display: list-item;
 }
