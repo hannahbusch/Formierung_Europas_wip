@@ -82,3 +82,7 @@ TEI {
     padding-inline-start: 1ch;
 
 }
+[_tag="bibl"] {
+    color: magenta;
+    font-weight: 400;
+}
